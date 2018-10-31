@@ -27,4 +27,3 @@ public class Fly extends Actor
         }
     }
 }
-gggg
